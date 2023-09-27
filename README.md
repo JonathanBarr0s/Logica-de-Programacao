@@ -230,91 +230,91 @@
             </tr>
             <tr>
                 <td align="center">Soma total</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/01.%20Soma%20total">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/01.%20Soma%20total">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Crie um programa que calcula e imprime a soma de todos os números em um array de números.</td>
             </tr>
             <tr>
                 <td align="center">Contando letras</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/02.%20Contando%20letras">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/02.%20Contando%20letras">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um programa que conte quantas letras "E" ou "e" existem em um array de letras e exiba uma mensagem com o resultado.</td>
             </tr>
             <tr>
                 <td align="center">Encontre o 10</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/03.%20Encontre%20o%2010">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/03.%20Encontre%20o%2010">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um programa que verifica se o número 10 existe em um array de números inteiros e, se existir, exiba sua posição (índice) ou -1 se não for encontrado.</td>
             </tr>
             <tr>
                 <td align="center">Múltiplos de 3</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/04.%20M%C3%BAltiplos%20de%203">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/04.%20M%C3%BAltiplos%20de%203">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um programa que imprime todos os múltiplos de 3 entre 0 e 500, exibindo-os um por linha no console.</td>
             </tr>
             <tr>
                 <td align="center">Filtrando apenas os pares</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/05.%20Filtrando%20apenas%20os%20pares">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/05.%20Filtrando%20apenas%20os%20pares">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um programa que filtra apenas os números pares de um array e os armazena em um novo array, exibindo-o no console.</td>
             </tr>
             <tr>
                 <td align="center">Soma dos pares</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/06.%20Soma%20dos%20pares">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/06.%20Soma%20dos%20pares">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um programa que percorra um array de números inteiros e calcule a soma dos números pares presentes, exibindo o resultado no console.</td>
             </tr>
             <tr>
                 <td align="center">Filtrando nomes com a letra A</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/07.%20Filtrando%20nomes%20com%20a%20letra%20A">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/07.%20Filtrando%20nomes%20com%20a%20letra%20A">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um programa que crie um novo array contendo apenas os nomes que começam com "A" ou "a" a partir de um array original de nomes e exiba o resultado no console.</td>
             </tr>
             <tr>
                 <td align="center">Encontrando o maior</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/08.%20Encontrando%20o%20maior">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/08.%20Encontrando%20o%20maior">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um programa que encontre e imprima o maior número presente em um array de números fornecido.</td>
             </tr>
             <tr>
                 <td align="center">Fila de pedidos</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/09.%20Fila%20de%20pedidos">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/09.%20Fila%20de%20pedidos">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Adicionar um string no final de um array fornecido, remover o primeiro string e imprimir o array no console.</td>
             </tr>
             <tr>
                 <td align="center">Para pensar um pouco mais</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/10.%20Para%20pensar%20um%20pouco%20mais">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/10.%20Para%20pensar%20um%20pouco%20mais">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Encontrar a maior diferença entre dois números em um array de inteiros e imprimir o resultado no console.</td>
             </tr>
             <tr>
                 <td align="center">Filtrando números</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/11.%20Filtrando%20n%C3%BAmeros">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/11.%20Filtrando%20n%C3%BAmeros">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um novo array que contenha números do array original entre 10 e 20 (incluindo-os) ou maiores que 100, e imprimir o novo array no console.</td>
             </tr>
             <tr>
                 <td align="center">Fila do banco</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/12.%20Fila%20do%20banco">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/12.%20Fila%20do%20banco">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Controlar as filas de um banco (filaDeDentro e filaDeFora) com limite de 5 pessoas dentro. Transferir as pessoas da filaDeFora para filaDeDentro até que o limite seja alcançado. Imprimir ambas as filas no final.</td>
             </tr>
             <tr>
                 <td align="center">Verificando disjuntores</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/13.%20Verificando%20disjuntores">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/13.%20Verificando%20disjuntores">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Verificar quais disjuntores estão ligados em uma caixa representada por um array e imprimir no console suas posições (índices). Utilizar o conceito de truthiness.</td>
             </tr>
             <tr>
                 <td align="center">Imprima os menores</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/14.%20Imprima%20os%20menores">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/14.%20Imprima%20os%20menores">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Comparar, para cada posição, os valores de dois arrays e imprimir no console o menor valor encontrado em cada posição.</td>
             </tr>
             <tr>
                 <td align="center">Separando pares de ímpares</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/15.%20Separando%20pares%20de%20%C3%ADmpares">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/04.%20Arrays%20e%20Loops/15.%20Separando%20pares%20de%20%C3%ADmpares">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Separar os números pares e ímpares do array original em dois arrays distintos (pares e ímpares) e, em seguida, imprimir ambos os arrays no console.</td>
             </tr>
