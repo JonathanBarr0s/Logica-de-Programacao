@@ -6,7 +6,18 @@ Meu nome é Jonathan Barros, e quero compartilhar um pedaço da minha jornada co
 
 Portanto, convido você a explorá-lo. Se você é um iniciante em programação, espero que esses exercícios possam ajudá-lo a construir uma base sólida em lógica de programação. Se você é um desenvolvedor mais experiente, talvez encontre algumas soluções interessantes ou até mesmo queira contribuir com melhorias. E se você é um recrutador em busca de avaliar meu trabalho e minhas habilidades, este repositório também serve como uma vitrine do meu percurso como desenvolvedor. Nele, você encontrará exemplos do meu pensamento lógico e da evolução das minhas competências ao longo do tempo.
 
-## 2. Instalação
+## 2. Conteúdo
+
+Os exerícios vão abordar assuntos como:
+
+1. Algoritmos;
+2. Variáveis e constantes; 
+3. Tipos de dados (números, strings, booleanos, etc.);
+4. Operadores; 
+5. Estruturas de controle de fluxo (estruturas de decisão (condicionais) e (estruturas de repetição (loops);
+6. Estruturas de dados.
+
+## 3. Instalação
 
 Aqui estão os passos para configurar o ambiente:
 
