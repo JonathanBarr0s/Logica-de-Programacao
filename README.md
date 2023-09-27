@@ -800,6 +800,12 @@
                 <td align="center">JavaScript Node.js</td>
                 <td>Desenvolver um algoritmo para detectar e corrigir palavras escritas em CAPS LOCK, invertendo o formato da palavra.</td>
             </tr>
+            <tr>
+                <td align="center">Cofre Bugadão</td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Extras/13.%20Cofre%20Bugad%C3%A3o">Código</a></td>
+                <td align="center">JavaScript Node.js</td>
+                <td>O objetivo do exercício é determinar se um cofre abrirá com base na senha correta e na palavra digitada.</td>
+            </tr>
             </table>
 
 <div align="left">
