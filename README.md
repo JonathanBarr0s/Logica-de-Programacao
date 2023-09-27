@@ -500,61 +500,61 @@
             </tr>
             <tr>
                 <td align="center">Sistema de filtro de comentários</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/01.%20Sistema%20de%20filtro%20de%20coment%C3%A1rios">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/01.%20Sistema%20de%20filtro%20de%20coment%C3%A1rios">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um sistema de filtro de comentários que verifique o texto de um comentário e bloqueie o comentário caso contenha palavras proibidas, independentemente do formato (maiúscula, minúscula, etc.).</td>
             </tr>
             <tr>
                 <td align="center">Sistema para formatar números</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/02.%20Sistema%20para%20formatar%20n%C3%BAmeros">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/02.%20Sistema%20para%20formatar%20n%C3%BAmeros">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um sistema que valide e formate números de CPF e CNPJ, exibindo-os de acordo com os padrões estabelecidos. Se inválidos, imprime uma mensagem correspondente.</td>
             </tr>
             <tr>
                 <td align="center">URL amigável</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/03.%20URL%20amig%C3%A1vel">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/03.%20URL%20amig%C3%A1vel">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um sistema que transforma um texto em uma URL amigável, convertendo todos os caracteres para minúsculos e substituindo espaços por hífens (-).</td>
             </tr>
             <tr>
                 <td align="center">Sistema de formatação de dados do formulário</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/04.%20Sistema%20de%20formata%C3%A7%C3%A3o%20de%20dados%20do%20formul%C3%A1rio">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/04.%20Sistema%20de%20formata%C3%A7%C3%A3o%20de%20dados%20do%20formul%C3%A1rio">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um sistema que formate os dados do formulário (identificador, nome e email).</td>
             </tr>
             <tr>
                 <td align="center">Esconder número do cartão de crédito</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/05.%20Esconder%20n%C3%BAmero%20do%20cart%C3%A3o%20de%20cr%C3%A9dito">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/05.%20Esconder%20n%C3%BAmero%20do%20cart%C3%A3o%20de%20cr%C3%A9dito">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um sistema que formate uma string com os 16 números de um cartão de crédito, exibindo apenas os 4 primeiros e os 4 últimos dígitos, substituindo os caracteres ocultos por asteriscos (*).</td>
             </tr>
             <tr>
                 <td align="center">Formatar número de celular</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/06.%20Formatar%20n%C3%BAmero%20de%20celular">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/06.%20Formatar%20n%C3%BAmero%20de%20celular">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um sistema que formate corretamente um número de celular, adicionando o DDD entre parênteses e o dígito 9 quando necessário, seguindo os padrões descritos.</td>
             </tr>
             <tr>
                 <td align="center">Validação de e-mail</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/07.%20Valida%C3%A7%C3%A3o%20de%20e-mail">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/07.%20Valida%C3%A7%C3%A3o%20de%20e-mail">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um sistema que verifique se um e-mail é válido, seguindo as dicas fornecidas.</td>
             </tr>
             <tr>
                 <td align="center">Remover pontuação</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/08.%20Remover%20pontua%C3%A7%C3%A3o">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/08.%20Remover%20pontua%C3%A7%C3%A3o">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar uma função que receba um número de CPF ou CNPJ e remova toda a pontuação, imprimindo o resultado sem os caracteres de pontuação.</td>
             </tr>
             <tr>
                 <td align="center">Gerador de Nickname</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/09.%20Gerador%20de%20Nickname">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/09.%20Gerador%20de%20Nickname">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Elaborar um sistema que gere um Nickname a partir de um nome e que obedeça aos critérios fornecidos.</td>
             </tr>
             <tr>
                 <td align="center">Validação de arquivos</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/10.%20Valida%C3%A7%C3%A3o%20de%20arquivos">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/08.%20M%C3%A9todos%20de%20Strings/10.%20Valida%C3%A7%C3%A3o%20de%20arquivos">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar uma função que receba o nome do arquivo com sua extensão e faça a validação dos arquivos permitidos (jpg, jpeg, gif e png), imprimindo se o arquivo é válido ou inválido.</td>
             </tr>
