@@ -329,37 +329,37 @@
             </tr>
             <tr>
                 <td align="center">Purificação</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/05.%20Pr%C3%A1tica%20com%20Arrays%20e%20Loops/01.%20Purifica%C3%A7%C3%A3o">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/05.%20Pr%C3%A1tica%20com%20Arrays%20e%20Loops/01.%20Purifica%C3%A7%C3%A3o">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um script para purificar os dados de entrada, removendo os caracteres especiais e gerando os nomes purificados corretamente.</td>
             </tr>
             <tr>
                 <td align="center">Abecedário</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/05.%20Pr%C3%A1tica%20com%20Arrays%20e%20Loops/02.%20Abeced%C3%A1rio">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/05.%20Pr%C3%A1tica%20com%20Arrays%20e%20Loops/02.%20Abeced%C3%A1rio">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um programa que conte quantas crianças perderam na brincadeira do ABC. Dada uma letra sorteada e uma lista de palavras das crianças, o programa deve contar quantas palavras não começam com a letra sorteada e imprimir esse número.</td>
             </tr>
             <tr>
                 <td align="center">Cinco ou mais, um é grátis</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/05.%20Pr%C3%A1tica%20com%20Arrays%20e%20Loops/03.%20Cinco%20ou%20mais%2C%20um%20%C3%A9%20gr%C3%A1tis">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/05.%20Pr%C3%A1tica%20com%20Arrays%20e%20Loops/03.%20Cinco%20ou%20mais%2C%20um%20%C3%A9%20gr%C3%A1tis">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um programa que calcule o valor total a ser pago por um cliente em uma loja com uma promoção especial. Se o cliente comprar 5 ou mais produtos, o mais barato será grátis. Dada uma lista de preços dos produtos em centavos, o programa deve calcular o valor total a ser pago, considerando a promoção quando aplicável, e imprimir esse valor.</td>
             </tr>
             <tr>
                 <td align="center">Carrossel</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/05.%20Pr%C3%A1tica%20com%20Arrays%20e%20Loops/04.%20Carrossel">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/05.%20Pr%C3%A1tica%20com%20Arrays%20e%20Loops/04.%20Carrossel">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um programa que simule um carrossel de imagens em um site. O usuário pode clicar nos botões ">" (direita) ou "<" (esquerda) para navegar pelas imagens. Dada uma sequência de cliques (string com ">" e "<"), o programa deve calcular o índice da imagem que será exibida após todos os cliques e imprimir esse índice.</td>
             </tr>
             <tr>
                 <td align="center">Perda mínima</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/05.%20Pr%C3%A1tica%20com%20Arrays%20e%20Loops/05.%20Perda%20m%C3%ADnima">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/05.%20Pr%C3%A1tica%20com%20Arrays%20e%20Loops/05.%20Perda%20m%C3%ADnima">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Encontrar a perda mínima que Letícia terá ao comprar e vender a casa em anos diferentes. Dado um array de preços da casa nos próximos anos, o programa deve calcular e imprimir a quantidade mínima de dinheiro que Letícia perderá ao realizar a compra e venda com prejuízo em anos diferentes.</td>
             </tr>
             <tr>
                 <td align="center">Brasil com "P"</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/05.%20Pr%C3%A1tica%20com%20Arrays%20e%20Loops/06.%20Brasil%20com%20P">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/05.%20Pr%C3%A1tica%20com%20Arrays%20e%20Loops/06.%20Brasil%20com%20P">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um programa que, dada uma combinação de duas letras e uma lista de palavras, imprima na tela todas as palavras que começam com essas duas letras. Se nenhuma palavra atender aos requisitos, o programa deve imprimir "NENHUMA".</td>
             </tr>
@@ -371,19 +371,19 @@
             </tr>
             <tr>
                 <td align="center">Brazilian Storm</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/05.%20Pr%C3%A1tica%20com%20Arrays%20e%20Loops/08.%20Brazilian%20Storm">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/05.%20Pr%C3%A1tica%20com%20Arrays%20e%20Loops/08.%20Brazilian%20Storm">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um programa que calcule a nota final de uma manobra de surf, dadas as notas atribuídas por vários juízes. Para isso, é preciso descartar a maior e a menor nota e calcular a média aritmética das restantes, que será a nota final da manobra. O programa deve imprimir essa nota final.</td>
             </tr>
             <tr>
                 <td align="center">Forca</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/05.%20Pr%C3%A1tica%20com%20Arrays%20e%20Loops/09.%20Forca">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/05.%20Pr%C3%A1tica%20com%20Arrays%20e%20Loops/09.%20Forca">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um programa que receba um palpite (letra) feito pelo usuário e a palavra escondida, e retorne a quantidade de acertos obtidos pelo usuário no palpite, ou seja, quantas vezes a letra aparece na palavra. O programa deve imprimir essa quantidade de acertos.</td>
             </tr>
             <tr>
                 <td align="center">Pontos no campeonato</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/05.%20Pr%C3%A1tica%20com%20Arrays%20e%20Loops/10.%20Pontos%20no%20campeonato">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/05.%20Pr%C3%A1tica%20com%20Arrays%20e%20Loops/10.%20Pontos%20no%20campeonato">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um programa que receba um array contendo os resultados das partidas de um time em um campeonato de futebol e calcule a pontuação final do time de acordo com esses resultados. O programa deve imprimir a quantidade total de pontos ganhos pelo time na competição.</td>
             </tr>
