@@ -6,6 +6,33 @@ Meu nome é Jonathan Barros, e quero compartilhar um pedaço da minha jornada co
 
 Portanto, convido você a explorar este repositório, a mergulhar nos exercícios que realizei no início da minha carreira e a usar esse recurso como uma fonte de aprendizado. Se você é um iniciante em programação, espero que esses exercícios possam ajudá-lo a construir uma base sólida em lógica de programação. Se você é um desenvolvedor mais experiente, talvez encontre algumas soluções interessantes ou até mesmo queira contribuir com melhorias. E se você é um recrutador em busca de avaliar meu trabalho e minhas habilidades, este repositório também serve como uma vitrine do meu percurso como desenvolvedor. Nele, você encontrará exemplos do meu pensamento lógico e da evolução das minhas competências ao longo do tempo.
 
+## 2. Instalação
+
+Aqui estão os passos para configurar o ambiente:
+
+1. **Instale o Visual Studio Code:**
+    
+    Você pode baixá-lo em **[code.visualstudio.com](https://code.visualstudio.com/)**.
+    
+2. **Clone o Repositório:**
+    
+    Para obter o código-fonte do projeto DevBank no seu computador, execute o comando abaixo no terminal do VS Code:
+    
+    ```bash
+    git clone https://github.com/JonathanBarr0s/Logica-de-Programacao.git
+    ```
+    
+4. **Instale o Node.js:**
+    
+    Certifique-se de ter o Node.js instalado no seu sistema. Você pode baixá-lo em **[nodejs.org](https://nodejs.org/)**. Verifique a instalação executando os comandos no terminal:
+    
+    ```
+    node -v
+    ```
+    
+    Isso deve exibir a versão do Node.js no seu sistema.
+
+Agora você tem o ambiente configurado e está pronto para realizar os exercícios.
    
    <div align="center">
         <br>
