@@ -50,7 +50,7 @@ Aqui estão os passos para configurar o ambiente:
 
 Agora você tem o ambiente configurado e está pronto para realizar os exercícios.
 
-## 3. Exercícios
+## 4. Exercícios
    
    <div align="center">
         <br>
