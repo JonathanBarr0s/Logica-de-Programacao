@@ -1,4 +1,4 @@
-# Lógica de Programação
+<h1 align="center">Lógica de Programação :books:</h1>
 
 ## 1. Descrição
 
