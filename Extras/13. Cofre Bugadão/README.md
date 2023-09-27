@@ -23,8 +23,8 @@ Imprima “SIM” caso o cofre abra. Caso contrário, imprimir “NAO”.
 ### Sample Input 0
 
 ```javascript
-cubos
-cuggbyos
+senha
+seggnhya
 ```
 
 ### Sample Output 0
@@ -36,7 +36,7 @@ SIM
 ### Sample Input 1
 
 ```javascript
-cubos
+senha
 ewvelrabsocaeln
 ```
 
