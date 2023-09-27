@@ -33,6 +33,8 @@ Aqui estão os passos para configurar o ambiente:
     Isso deve exibir a versão do Node.js no seu sistema.
 
 Agora você tem o ambiente configurado e está pronto para realizar os exercícios.
+
+## 3. Exercícios
    
    <div align="center">
         <br>
