@@ -569,37 +569,37 @@
             </tr>
             <tr>
                 <td align="center">Teste suas habilidades</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/09.%20M%C3%A9todos%20de%20Arrays/01.%20Teste%20suas%20habilidades">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/09.%20M%C3%A9todos%20de%20Arrays/01.%20Teste%20suas%20habilidades">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Manipular um array de frutas utilizando métodos de arrays.</td>
             </tr>
             <tr>
                 <td align="center">Divisão de grupos</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/09.%20M%C3%A9todos%20de%20Arrays/02.%20Divis%C3%A3o%20de%20grupos">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/09.%20M%C3%A9todos%20de%20Arrays/02.%20Divis%C3%A3o%20de%20grupos">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar função que divide um array de nomes em grupos com a quantidade especificada pelo número passado como parâmetro. Imprimir os grupos resultantes.</td>
             </tr>
             <tr>
                 <td align="center">Grupos de carros</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/09.%20M%C3%A9todos%20de%20Arrays/03.%20Grupos%20de%20carros">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/09.%20M%C3%A9todos%20de%20Arrays/03.%20Grupos%20de%20carros">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar uma função que receba um array de carros e um número inteiro como parâmetros. A função deve encontrar o carro na posição informada no segundo parâmetro e capturar 3 carros subsequentes, incluindo o carro encontrado na posição informada. A função deve imprimir o resultado contendo os três carros.</td>
             </tr>
             <tr>
                 <td align="center">Fila de atendimento</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/09.%20M%C3%A9todos%20de%20Arrays/04.%20Fila%20de%20atendimento">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/09.%20M%C3%A9todos%20de%20Arrays/04.%20Fila%20de%20atendimento">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar uma função que gerencie a fila de atendimento em uma clínica médica. Ela deve permitir agendar novos pacientes e atender o próximo da fila, imprimindo a lista atualizada após cada operação.</td>
             </tr>
             <tr>
                 <td align="center">Fila de atendimento 2.0</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/09.%20M%C3%A9todos%20de%20Arrays/05.%20Fila%20de%20atendimento%202.0">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/09.%20M%C3%A9todos%20de%20Arrays/05.%20Fila%20de%20atendimento%202.0">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Melhorar o sistema de Fila de Atendimento implementado anteriormente. Agora, serão criadas funções específicas para agendar pacientes, atender pacientes e cancelar atendimentos, garantindo a atualização correta da fila.</td>
             </tr>
             <tr>
                 <td align="center">Encontrar dono do pet</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/09.%20M%C3%A9todos%20de%20Arrays/06.%20Encontrar%20dono%20do%20pet">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/09.%20M%C3%A9todos%20de%20Arrays/06.%20Encontrar%20dono%20do%20pet">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar uma função que facilite encontrar o dono de um pet específico na lista de cadastro de usuários e seus respectivos pets. Se o pet for encontrado, o sistema imprimirá o nome do dono, caso contrário, imprimirá uma mensagem informando que o dono não foi encontrado.</td>
             </tr>
