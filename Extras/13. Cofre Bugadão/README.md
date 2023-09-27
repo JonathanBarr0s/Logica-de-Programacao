@@ -6,7 +6,7 @@ Um novo cofre foi desenvolvido com a mais moderna tecnologia em segurança e cri
 
 Durante alguns testes de rotina foi descoberto um bug na hora de validar a senha: O cofre ignora letras erradas durante a digitação da senha, desde que todas as letras da senha tenham sido digitadas na ordem correta.
 
-Por exemplo, se a senha for “cubos” e for digitado “cuggbyos”, o cofre irá abrir.
+Por exemplo, se a senha for “senha” e for digitado “seggnhya”, o cofre irá abrir.
 
 ### Input Format
 
