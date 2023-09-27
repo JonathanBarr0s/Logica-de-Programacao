@@ -36,73 +36,73 @@
             </tr>
             <tr>
                 <td align="center">Fahrenheit x Celsius</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/02.%20Fahrenheit%20x%20Celsius">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/02.%20Fahrenheit%20x%20Celsius">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Conversor de Fahrenheit para Celsius.</td>
             </tr>
             <tr>
                 <td align="center">Desconto do tênis</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/03.%20Desconto%20do%20t%C3%AAnis">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/03.%20Desconto%20do%20t%C3%AAnis">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Calculadora de descontos.</td>
             </tr>
             <tr>
                 <td align="center">Calcular juros compostos</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/04.%20Calcular%20juros%20compostos">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/04.%20Calcular%20juros%20compostos">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Calculadora de juros compostos.</td>
             </tr>
             <tr>
                 <td align="center">Calcular a distância entre dois pontos</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/05.%20Calcular%20a%20dist%C3%A2ncia%20entre%20dois%20pontos">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/05.%20Calcular%20a%20dist%C3%A2ncia%20entre%20dois%20pontos">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Calculadora que retorna a distância entre dois pontos com base em suas coordenadas.</td>
             </tr>
             <tr>
                 <td align="center">Velocidade média</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/06.%20Velocidade%20m%C3%A9dia">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/06.%20Velocidade%20m%C3%A9dia">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Calculadora de velocidade média com base em variáveis.</td>
             </tr>
             <tr>
                 <td align="center">Casos de COVID-19</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/07.%20Casos%20de%20COVID-19">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/07.%20Casos%20de%20COVID-19">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Calculadora que simula a quantidade de novos casos de COVID-19 a partir de variáveis.</td>
             </tr>
             <tr>
                 <td align="center">Calculo do perímetro e área de um círculo</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/08.%20Calculo%20do%20per%C3%ADmetro%20e%20%C3%A1rea%20de%20um%20c%C3%ADrculo">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/08.%20Calculo%20do%20per%C3%ADmetro%20e%20%C3%A1rea%20de%20um%20c%C3%ADrculo">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Calculadora de área e perímetro de uma circunferência.</td>
             </tr>
             <tr>
                 <td align="center">Soma dos ângulos internos de um polígono</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/09.%20Soma%20dos%20%C3%A2ngulos%20internos%20de%20um%20pol%C3%ADgono">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/09.%20Soma%20dos%20%C3%A2ngulos%20internos%20de%20um%20pol%C3%ADgono">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Calculadora que retorna a soma dos ângulos internos de um polígono.</td>
             </tr>
             <tr>
                 <td align="center">Delta</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/10.%20Delta">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/10.%20Delta">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Calculadora que retorna o delta de uma equação do segundo grau.</td>
             </tr>
             <tr>
                 <td align="center">Volume de uma esfera</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/11.%20Volume%20de%20uma%20esfera">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/11.%20Volume%20de%20uma%20esfera">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Calculadora que retorna o volume de uma esfera com base nas variáveis.</td>
             </tr>
             <tr>
                 <td align="center">Taxa de juros</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/12.%20Taxa%20de%20juros">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/12.%20Taxa%20de%20juros">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Calculadora que retorna a taxa de juros com base nas variáveis.</td>
             </tr>
             <tr>
                 <td align="center">Área total de um cilindro</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/13.%20%C3%81rea%20total%20de%20um%20cilindro">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/13.%20%C3%81rea%20total%20de%20um%20cilindro">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Calculadora que retorna a área total de um cilindro com base nas variáveis.</td>
             </tr>
