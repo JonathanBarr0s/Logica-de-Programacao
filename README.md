@@ -11,11 +11,17 @@ Portanto, convido você a explorá-lo. Se você é um iniciante em programação
 Os exerícios vão abordar assuntos como:
 
 1. Algoritmos;
-2. Variáveis e constantes; 
+2. Variáveis e Constantes;
 3. Tipos de dados (números, strings, booleanos, etc.);
-4. Operadores; 
-5. Estruturas de controle de fluxo (estruturas de decisão (condicionais) e (estruturas de repetição (loops);
-6. Estruturas de dados.
+4. Operadores Aritméticos;
+5. Operadores de comparação;
+6. Condicionais;
+7. Operadores Lógicos e Aritméticos;
+8. Arrays e Loops;
+9. Objetos;
+10. Funções;
+11. Métodos de Strings;
+12. Git e GitHub.
 
 ## 3. Instalação
 
