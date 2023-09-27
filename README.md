@@ -16,12 +16,11 @@ Os exerícios vão abordar assuntos como:
 4. Operadores Aritméticos;
 5. Operadores de comparação;
 6. Condicionais;
-7. Operadores Lógicos e Aritméticos;
-8. Arrays e Loops;
-9. Objetos;
-10. Funções;
-11. Métodos de Strings;
-12. Git e GitHub.
+7. Arrays e Loops;
+8. Objetos;
+9. Funções;
+10. Métodos de Strings;
+11. Git e GitHub.
 
 ## 3. Instalação
 
