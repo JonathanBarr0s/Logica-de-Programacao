@@ -398,61 +398,61 @@
             </tr>
             <tr>
                 <td align="center">Cadastro de usuário</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/06.%20Objetos/01.%20Cadastro%20de%20usu%C3%A1rio">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/06.%20Objetos/01.%20Cadastro%20de%20usu%C3%A1rio">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um cadastro de usuário com informações pessoais e de endereço, utilizando objetos e variáveis em um programa.</td>
             </tr>
             <tr>
                 <td align="center">Lista de veículos</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/06.%20Objetos/02.%20Lista%20de%20ve%C3%ADculos">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/06.%20Objetos/02.%20Lista%20de%20ve%C3%ADculos">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar uma lista de veículos com informações como marca, modelo, ano, cor, quantidade de portas e se é automático ou não, utilizando objetos e variáveis.</td>
             </tr>
             <tr>
                 <td align="center">Mensagem de apresentação</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/06.%20Objetos/03.%20Mensagem%20de%20apresenta%C3%A7%C3%A3o">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/06.%20Objetos/03.%20Mensagem%20de%20apresenta%C3%A7%C3%A3o">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Montar uma mensagem de apresentação com os dados do objeto "usuario" de forma dinâmica, utilizando desestruturação.</td>
             </tr>
             <tr>
                 <td align="center">Adicionando maior idade</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/06.%20Objetos/04.%20Adicionando%20maior%20idade">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/06.%20Objetos/04.%20Adicionando%20maior%20idade">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Adicionar uma nova propriedade "maior_idade" a cada objeto da lista de "usuarios". O valor deve ser true se a idade for maior que 17 e false caso contrário. Percorrer a lista para fazer a adição.</td>
             </tr>
             <tr>
                 <td align="center">Cadastro de aulas</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/06.%20Objetos/05.%20Cadastro%20de%20aulas">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/06.%20Objetos/05.%20Cadastro%20de%20aulas">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Adicionar as aulas na propriedade "aulas" do objeto "curso". Cada aula deve ser um objeto com "identificador" e "nome_da_aula".</td>
             </tr>
             <tr>
                 <td align="center">Separando jovens de adulto</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/06.%20Objetos/06.%20Separando%20jovens%20de%20adulto">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/06.%20Objetos/06.%20Separando%20jovens%20de%20adulto">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Separar os usuários menores de 18 anos na constante "jovens" e os demais na constante "adultos". Exibir as duas constantes no console.</td>
             </tr>
             <tr>
                 <td align="center">Numerando capítulos de um livro</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/06.%20Objetos/07.%20Numerando%20cap%C3%ADtulos%20de%20um%20livro">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/06.%20Objetos/07.%20Numerando%20cap%C3%ADtulos%20de%20um%20livro">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Adicionar uma propriedade "numero" em cada objeto da lista de capítulos do livro, numerando em ordem crescente. Exibir o livro com os capítulos numerados no console.</td>
             </tr>
             <tr>
                 <td align="center">Meus pets</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/06.%20Objetos/08.%20Meus%20pets">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/06.%20Objetos/08.%20Meus%20pets">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Percorrer a lista de pessoas e imprimir uma mensagem para cada uma delas, informando o nome da pessoa e a quantidade de pets que ela possui. Caso não tenha pets, informar apenas o nome.</td>
             </tr>
             <tr>
                 <td align="center">Encontrando Carlos na multidão</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/06.%20Objetos/09.%20Encontrando%20Carlos%20na%20multid%C3%A3o">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/06.%20Objetos/09.%20Encontrando%20Carlos%20na%20multid%C3%A3o">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Percorrer a lista de participantes e encontrar o Carlos. Quando encontrá-lo, imprima a mensagem com a posição dele na lista (iniciando a contagem a partir de 1).</td>
             </tr>
             <tr>
                 <td align="center">Compras online</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/06.%20Objetos/10.%20Compras%20online">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/06.%20Objetos/10.%20Compras%20online">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Adicionar produtos ao carrinho de clientes.</td>
             </tr>
