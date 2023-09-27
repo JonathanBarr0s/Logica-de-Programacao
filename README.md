@@ -614,73 +614,73 @@
             </tr>
             <tr>
                 <td align="center">Sistema para biblioteca</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/01.%20Sistema%20para%20biblioteca">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/01.%20Sistema%20para%20biblioteca">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um sistema que, ajudará os funcionários da biblioteca a encontrar a posição de um livro na estante. Ao fornecer o nome do livro, o sistema determinará sua localização na estante. Utiliza um array de livros predefinidos.</td>
             </tr>
             <tr>
                 <td align="center">Verificando limite de caracters</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/02.%20Verificando%20limite%20de%20caracters">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/02.%20Verificando%20limite%20de%20caracters">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Verificar se haverá alguma palavra com mais de 5 caracteres em um array de palavras. Se houver, imprimir "existe palavra inválida"; caso contrário, imprimir "array validado".</td>
             </tr>
             <tr>
                 <td align="center">Validando lista de compras</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/03.%20Validando%20lista%20de%20compras">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/03.%20Validando%20lista%20de%20compras">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Validar a lista de compras de João. O programa usará a função some() para verificar se há bebidas proibidas.</td>
             </tr>
             <tr>
                 <td align="center">Validação de numeros pares</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/04.%20Valida%C3%A7%C3%A3o%20de%20numeros%20pares">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/04.%20Valida%C3%A7%C3%A3o%20de%20numeros%20pares">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Validar se todos os números de um array são pares. O programa utilizará o método every() para verificar isso. Se todos os itens forem pares, imprimirá "Array válido"; caso contrário, imprimirá "Array inválido".</td>
             </tr>
             <tr>
                 <td align="center">Filtro e validação de usuários</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/05.%20Filtro%20e%20valida%C3%A7%C3%A3o%20de%20usu%C3%A1rios">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/05.%20Filtro%20e%20valida%C3%A7%C3%A3o%20de%20usu%C3%A1rios">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Filtrar os usuários entre 18 e 65 anos e, em seguida, verificar se todos eles estão habilitados. O programa usará os métodos filter() e every() para realizar essas operações.</td>
             </tr>
             <tr>
                 <td align="center">Filtro de caracteres</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/06.%20Filtro%20de%20caracteres">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/06.%20Filtro%20de%20caracteres">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Percorrer um array com nomes de cidades e criar um novo array contendo apenas os nomes que possuam até 8 caracteres. Além disso, é desejado formatar o novo array para imprimir os nomes separados por vírgula e espaço.</td>
             </tr>
             <tr>
                 <td align="center">Busca de CEP</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/07.%20Busca%20de%20CEP">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/07.%20Busca%20de%20CEP">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar uma função que localize um endereço em um array através do CEP e imprima o nome da rua. O método find() será utilizado para realizar essa busca.</td>
             </tr>
             <tr>
                 <td align="center">Modificando um array</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/08.%20Modificando%20um%20array">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/08.%20Modificando%20um%20array">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um novo array a partir de outro array, onde todos os elementos começam com letras maiúsculas e também contêm o número do índice correspondente.</td>
             </tr>
             <tr>
                 <td align="center">Filtro de números positivos</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/09.%20Filtro%20de%20n%C3%BAmeros%20positivos">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/09.%20Filtro%20de%20n%C3%BAmeros%20positivos">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Filtrar um array de números inteiros e retornar um novo array apenas com os números positivos.</td>
             </tr>
             <tr>
                 <td align="center">Filtro de números pares</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/10.%20Filtro%20de%20n%C3%BAmeros%20pares">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/10.%20Filtro%20de%20n%C3%BAmeros%20pares">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Filtrar um array de números inteiros e retornar um novo array apenas com os números pares.</td>
             </tr>
             <tr>
                 <td align="center">Filtro de nome por letra</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/11.%20Filtro%20de%20nome%20por%20letra">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/11.%20Filtro%20de%20nome%20por%20letra">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Filtrar um array de strings e retornar um novo array apenas com aqueles que começam com a letra "a" (maiúscula ou minúscula).</td>
             </tr>
             <tr>
                 <td align="center">Filtro de usuários</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/12.%20Filtro%20de%20usu%C3%A1rios">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/10.%20M%C3%A9todos%20de%20Arrays%20II/12.%20Filtro%20de%20usu%C3%A1rios">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Criar um sistema que filtre pessoas do array por idade e profissão. Você filtrará programadores com mais de 20 anos, jornalistas com mais de 30 anos e jovens jornalistas e programadores com até 29 anos.</td>
             </tr>
