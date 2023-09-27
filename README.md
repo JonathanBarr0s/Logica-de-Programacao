@@ -30,7 +30,7 @@
             </tr>
             <tr>
                 <td align="center">Calculadora de IMC</td>
-                <td><a href="https://github.com/JonathanBarr0s/Cubos-Academy/tree/main/M%C3%B3dulo%201/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/01.%20Calculadora%20de%20IMC">Código</a></td>
+                <td><a href="https://github.com/JonathanBarr0s/Logica-de-Programacao/tree/main/Exerc%C3%ADcios/02.%20Vari%C3%A1veis/01.%20Calculadora%20de%20IMC">Código</a></td>
                 <td align="center">JavaScript Node.js</td>
                 <td>Calculadora que retorna o IMC com base nas variáveis.</td>
             </tr>
