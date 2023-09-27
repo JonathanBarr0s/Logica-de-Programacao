@@ -22,6 +22,6 @@ No exemplo acima, o seu programa deve imprimir a mensagem:
     Vogal maiúscula
 ```
 
-## Lembre-se de testar seu código para outras variações de entrada.
+Lembre-se de testar seu código para outras variações de entrada.
 
 
