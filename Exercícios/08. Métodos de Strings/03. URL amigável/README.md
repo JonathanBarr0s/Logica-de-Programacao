@@ -9,13 +9,13 @@ Obs.: Uma URL amigável é formada por caracteres minúsculos, separados por hí
 Exemplo:
 
 ```javascript=
-const texto = "Aprenda programar do zero na Cubos Academy";
+const texto = "Aprenda programar do zero";
 ```
 
 Para o exemplo acima o sistema deverá imprimir:
 
 ```
-aprenda-programar-do-zero-na-cubos-academy
+aprenda-programar-do-zero
 ```
 
 Faça o teste com outros exemplos.
